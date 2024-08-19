@@ -1,0 +1,4 @@
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Casting\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Casting\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Casting\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Casting\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache
